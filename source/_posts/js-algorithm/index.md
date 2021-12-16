@@ -2,7 +2,7 @@
 title: 前端 JS 编程题（算法类）
 author: 0hayo
 avatar: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/custom/avatar.jpg
-authorLink: hojun.cn
+authorLink: 
 authorAbout: nothing
 authorDesc: nothing
 categories: 
@@ -17,7 +17,7 @@ tags:
     - 面试题
 keywords: 0hayo
 description: 站在自己所热爱的世界里！
-photos: https://static.2heng.xin/wp-content/uploads//2019/02/wallhaven-672007-1-1024x576.png
+photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
 ---
 
 ### 一、手写快排、冒泡、选择排序

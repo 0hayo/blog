@@ -13,6 +13,7 @@
     "hexo-generator-feed": "^1.2.2",
     "hexo-generator-index": "^0.2.1",
     "hexo-generator-json-content": "^2.2.0",
+    "hexo-generator-searchdb": "^1.4.0",
     "hexo-generator-tag": "^0.2.0",
     "hexo-git-backup": "^0.1.2",
     "hexo-renderer-ejs": "^0.3.1",
@@ -21,7 +22,6 @@
     "hexo-server": "^0.3.1",
     "hexo-tag-bili": "^1.0.0",
     "hexo-tag-fancybox_img": "^1.0.1",
-    "hexo-generator-searchdb": "^1.4.0",
     "hexo-theme-landscape": "^0.0.3"
   }
 }
