@@ -289,11 +289,14 @@ class Compile {
 
   // v-model
   model(node, exp, dir) {
-    node.value = this.$vm[exp];
+    this.update(node, exp, dir);
     const _this = this;
     node.addEventListener('input', function(InputEvent) {
       _this.$vm[exp] = InputEvent.target.value;
     })
+  }
+  modelUpdator(node, value) {
+    node.value = value;
   }
 
 }
