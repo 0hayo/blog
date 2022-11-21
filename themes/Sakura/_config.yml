@@ -6,7 +6,7 @@ favicon: /images/favicon.ico
 avatar: /images/tx1.jpeg
 url: https://sakura.hojun.cn
 description: 站在自己所热爱的世界里！
-cdn: http://localhost:4000
+cdn: https://0hayo.github.io
 pjax: 1
 # 1开启
 mathjax: 0
