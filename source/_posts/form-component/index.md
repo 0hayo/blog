@@ -15,7 +15,7 @@ tags:
     - 表单验证
 keywords: 0hayo
 description: 站在自己所热爱的世界里！
-photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
+photos: /images/cover/(1).jpg.webp
 ---
 
 ## form组件

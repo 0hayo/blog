@@ -17,7 +17,7 @@ tags:
     - 面试题
 keywords: 0hayo
 description: 站在自己所热爱的世界里！
-photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
+photos: /images/cover/(5).jpg.webp
 ---
 
 ### 一、手写防抖（debounce）

@@ -17,7 +17,7 @@ tags:
     - 滚动加载
 keywords: 0hayo
 description: 站在自己所热爱的世界里！
-photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
+photos: /images/cover/20221121143317.jpg
 ---
 
 首先在main.js文件注册全局事件，代码如下：
